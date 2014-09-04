@@ -1,0 +1,59 @@
+  /*Visualized bags(plates) */
+  .rect_style {
+     stroke:black;
+     stroke-width:5;
+
+  }
+  
+  /*Four set of external bags 
+  with four different but similar colors*/
+  .rect_color_1{
+      fill:#FFC863;
+  }
+  .rect_color_2{
+      fill:#FFB939;
+  }
+  .rect_color_3{
+      fill:#C58000;
+  }
+
+  /*When the opacity of bag image is 1, 
+  the bag is showed explicitly */
+  .rect_obvious{
+        opacity:1;
+  }  
+
+  /*when not used, blur image*/
+  .rect_blur{
+        opacity:0.2;
+  }  
+
+  /*When not available, disappear image*/
+  .rect_none{
+    opacity: 0;
+  }
+
+  /*View Postions of bag image*/
+  .bag_postion_1{
+    position:relative; 
+  }
+  .bag_postion_2{
+    position:relative; 
+    left: 20px;
+  }
+  .bag_postion_3{
+    position:relative; 
+    left: 40px;
+  }
+  .bag_postion_4{
+    position:relative; 
+    left: 220px;
+  }
+  .bag_postion_5{
+    position:relative; 
+    left: 240px;
+  }
+  .bag_postion_6{
+    position:relative; 
+    left: 260px;
+  }
