@@ -5,5 +5,5 @@ A simple application using to calculate sandbags you need to add when you want t
 
 
 ###Claim
-These code could only use to learning purpose.
+These code could be only used for learning purpose.
 
